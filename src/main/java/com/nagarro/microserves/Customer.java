@@ -35,8 +35,6 @@ public class Customer {
 		this.customerName = customerName;
 		this.customerNumber = customerNumber;
 	}
-	public Customer() {
-		super();
-	}
+	
 	
 }
